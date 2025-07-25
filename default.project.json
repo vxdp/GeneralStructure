@@ -18,6 +18,10 @@
           "Misc":{
             "$path": "src/shared/Common/Misc",
             "$className": "Folder"
+          },
+          "common_init_locked":{
+            "$className": "ModuleScript",
+            "$path": "src/shared/Common/common_init_locked.luau"
           }
       },
       "Remotes":{
